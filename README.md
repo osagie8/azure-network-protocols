@@ -1,22 +1,30 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-# Azure Networking Protocols
-My outline of the implementation of on-premises Active Directory within Azure Virtual Machines.
+# Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines
+
+In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. 
 
 
 #### Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Various Command-Line Tools
+- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Wireshark (Protocol Analyzer)
 
 #### Operating Systems Used
 
-- Windows Server 2022
 - Windows 10 (21H2)
-- Ubuntu Server 24.0
+- Ubuntu Server 20.04
 
-#### Overview of Deployment and Configuration Steps
+#### High-Level Steps
+
+- Step 1
+- Step 2
+- Step 3
+- Step 4
+
+#### Actions and Observations
